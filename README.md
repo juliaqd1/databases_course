@@ -3,6 +3,6 @@ Repositório da disciplina Banco de Dados contendo os trabalhos desenvolvidos pa
 
 ## Integrantes
 
-Amanda Perez
-Julia Queiroz Delgado
+Amanda Perez <br />
+Julia Queiroz Delgado <br />
 Kenner Azevedo
