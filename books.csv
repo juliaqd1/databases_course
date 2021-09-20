@@ -1,0 +1,69 @@
+,nome_livro,rating,idioma,qtd_paginas,autor,genero,editora,loja,preco,uf,cliente
+0,Harry Potter,1,Inglês,477,Oren E. Mckee,Poesia,Metus PC,Estante Virtual,81,RJ,Whilemina Guy
+1,Livro 3,3,Espanhol,421,Emery X. Allen,Suspense,Purus Limited,Livraria Cultura,58,PB,Karen Erickson
+2,Livro do Kenner,3,Português,519,Hanna K. Ford,Poesia,Non Ante Bibendum LLC,Estante Virtual,95,PR,Martin Stafford
+3,Livro Amaldiçoado,3,Espanhol,378,Joseph Cote,Horror,Neque Company,Estante Virtual,49,SC,Ira Gay
+4,Livro do Renato,4,Francês,561,Ulysses Roberson,Horror,Aliquet Phasellus Industries,Estante Virtual,89,MG,Leilani Benton
+5,As mentiras de Locke Lamora,4,Alemão,481,Byron G. Estrada,Ficção,Faucibus Limited,Livraria Cultura,22,PB,Sybil Brewer
+6,Livro da Amanda,1,Japonês,407,Sharon D. Savage,Poesia,Nam Company,Lojas Americanas,60,SP,Berk Franco
+7,Livro Mágico,1,Alemão,409,Abbot Cline,Romance,Mollis Duis Sit Associates,Estante Virtual,45,RJ,Cody Marks
+8,Livro 3,2,Japonês,398,Zelda Perkins,Poesia,Nec Malesuada Ut Corporation,Saraiva,91,BA,Natalie Jefferson
+9,Livro Amaldiçoado,1,Francês,439,Tyler Rush,Ficção,Dui LLP,Travessa,25,RS,Colette Galloway
+10,Livro Triste,5,Inglês,454,Nathaniel X. West,Poesia,Magnis LLC,Estante Virtual,23,PE,Jonah Watson
+11,Livro Triste,4,Francês,555,Anne Tucker,Drama,Pretium Et PC,Livraria Cultura,89,MA,Harding Clayton
+12,Livro da Amanda,4,Latim,387,Chanda J. Marks,Ficção,Pede LLP,Saraiva,94,RS,Jana Bolton
+13,Livro Mágico,4,Latim,243,Driscoll Sears,Drama,Tincidunt Neque Industries,Saraiva,69,PB,Pascale Clemons
+14,Livro da Julia,1,Português,207,Nasim Whitney,Poesia,Vitae Diam Proin LLP,Saraiva,85,BA,Owen Valentine
+15,Livro da Julia,1,Francês,416,Peter A. Wilkerson,Romance,Ante PC,Lojas Americanas,78,RS,Astra Acosta
+16,Livro da Amanda,5,Inglês,342,Rhona Lloyd,Poesia,Elit Pellentesque Inc.,Lojas Americanas,49,RS,Ebony Kaufman
+17,Livro livro,5,Japonês,515,Ivana Cameron,Suspense,Hendrerit Neque Corporation,Lojas Americanas,67,MG,Drake Knox
+18,Livro 1,4,Latim,421,Ayanna P. Brooks,Romance,Ornare Company,Saraiva,89,RJ,Merrill Francis
+19,Livro do Renato,2,Japonês,402,Adrienne P. Humphrey,Poesia,At Pede Cras Incorporated,Saraiva,58,PR,Quamar Gilliam
+20,Livro do Renato,1,Latim,376,Gil X. Lancaster,Poesia,Vitae Erat Vel Inc.,Travessa,83,RS,Theodore Melton
+21,Livro 2,1,Alemão,595,Tobias C. Odom,Romance,Pede Praesent Industries,Livraria Cultura,71,CE,Virginia Mcclain
+22,IT A Coisa,1,Francês,384,Desiree W. Herring,Drama,Vivamus Consulting,Travessa,41,PE,Camilla George
+23,Livro da Julia,1,Espanhol,539,Erich X. Patel,Romance,Aliquam Fringilla Cursus Inc.,Amazon,44,SP,Philip Collins
+24,Livro Incrível,4,Espanhol,423,Kiona P. Gallagher,Suspense,Magna Lorem Ipsum Foundation,Estante Virtual,21,BA,Irene Wolf
+25,Livro Triste,2,Espanhol,212,Maia Horn,Ficção,Duis Limited,Travessa,69,MA,Brent Cummings
+26,Livro do Kenner,3,Alemão,400,Eleanor M. Schwartz,Suspense,Nullam Suscipit Est Consulting,Lojas Americanas,77,MA,Caryn Bryant
+27,Livro de Banco de Dados,3,Latim,409,Aline Rivas,Ficção,Quis Limited,Lojas Americanas,60,CE,Daniel Rosales
+28,Livro 2,5,Japonês,470,Xandra Waller,Poesia,Auctor Vitae Aliquet Incorporated,Lojas Americanas,84,SP,Amal Fuller
+29,Livro Mágico,3,Japonês,207,Stone Kidd,Horror,Ut Nisi A PC,Estante Virtual,83,SP,Idona Raymond
+30,Livro do Kenner,5,Inglês,287,Roanna C. Carver,Horror,Congue A LLC,Travessa,92,SP,Ella Odom
+31,IT A Coisa,4,Português,469,Galena Duffy,Poesia,Diam Sed Institute,Lojas Americanas,58,SP,Chanda Hodges
+32,Livro 1,3,Inglês,457,Desirae R. Hebert,Suspense,Senectus Associates,Amazon,96,PR,Rogan Holman
+33,Livro 3,5,Francês,280,Karina Branch,Romance,Ornare LLC,Amazon,45,RJ,Finn Carney
+34,Livro Incrível,2,Latim,328,Fitzgerald Rasmussen,Romance,Lobortis Quis Pede Foundation,Amazon,39,BA,Jerome Mcmillan
+35,As mentiras de Locke Lamora,4,Espanhol,415,Lila Q. Cameron,Ficção,Penatibus Et Magnis LLC,Livraria Cultura,38,SC,Sophia Simpson
+36,Livro 1,5,Alemão,588,Kay F. Black,Romance,Placerat Augue Corp.,Saraiva,55,MA,Armand Bryant
+37,Livro do Renato,5,Alemão,243,Raja B. Day,Romance,Leo Vivamus Associates,Travessa,82,PR,Aaron Munoz
+38,Livro Triste,5,Japonês,344,Tamara N. Marks,Suspense,Et Eros Institute,Travessa,28,SP,Jackson Cooper
+39,Harry Potter,4,Alemão,212,Myles Livingston,Poesia,Risus Corporation,Travessa,96,SP,Ivy Steele
+40,Livro 2,4,Inglês,454,Hilel Bolton,Ficção,Malesuada Ut Sem LLC,Livraria Cultura,83,SP,Karen Buckner
+41,Livro Mágico,1,Espanhol,524,Abel G. Flynn,Suspense,Vulputate PC,Travessa,61,CE,Brendan Craft
+42,Livro de Banco de Dados,2,Alemão,596,Robin Pruitt,Poesia,Dolor Egestas Rhoncus Associates,Estante Virtual,77,RJ,Zephania Warren
+43,IT A Coisa,2,Inglês,474,Lacy Z. Shannon,Horror,Fringilla Foundation,Saraiva,21,CE,Violet Carlson
+44,Eram os Deuses Astronautas?,1,Português,451,Cairo C. Holman,Drama,Aliquam Institute,Livraria Cultura,90,BA,Christopher Roach
+45,Livro Mágico,2,Francês,506,Alexis Y. Mccray,Ficção,Erat Nonummy Corp.,Travessa,92,PR,Brenden Buck
+46,Eram os Deuses Astronautas?,2,Francês,362,Rogan M. Estes,Horror,Nonummy Ultricies Ornare Foundation,Saraiva,98,MG,Mira Mccormick
+47,Livro Incrível,3,Alemão,259,Leila U. Everett,Poesia,Lorem PC,Estante Virtual,97,GO,Willa Phelps
+48,Livro livro,4,Português,462,Patrick R. Harrell,Poesia,Sodales Elit Associates,Amazon,53,MG,Anika Wyatt
+49,Livro da Julia,5,Alemão,525,Leah Mckenzie,Poesia,Lacus Ltd,Lojas Americanas,29,MA,Samson Wright
+50,Livro de Banco de Dados,4,Francês,232,Kameko I. Giles,Poesia,Id Risus Inc.,Amazon,34,PE,Octavia Wells
+51,Livro livro,2,Inglês,389,Nero W. Moore,Suspense,Ullamcorper Velit In Associates,Livraria Cultura,98,BA,Katell Callahan
+52,Livro da Amanda,2,Francês,274,Cynthia J. Tyler,Horror,Cursus Ltd,Lojas Americanas,88,RS,Acton Frost
+53,Livro Incrível,5,Inglês,309,Alma E. Walls,Suspense,Amet Ante Vivamus Associates,Livraria Cultura,79,PA,Morgan Hansen
+54,Livro do Kenner,3,Latim,297,Ainsley G. Ratliff,Romance,Eu Odio Company,Lojas Americanas,88,MG,Mohammad Barrera
+55,Livro de Banco de Dados,2,Japonês,357,Keith Lucas,Poesia,Vulputate Eu Odio Incorporated,Estante Virtual,69,SP,Thomas Joyner
+56,IT A Coisa,1,Alemão,443,Lucas W. Lowe,Horror,Etiam LLC,Lojas Americanas,93,PA,Suki Cervantes
+57,As mentiras de Locke Lamora,2,Inglês,339,Christian Le,Horror,Mauris Blandit Enim Consulting,Travessa,82,SP,Lester Osborn
+58,As mentiras de Locke Lamora,3,Japonês,585,Eric O. Frederick,Drama,Egestas A Corp.,Amazon,99,SP,Bertha French
+59,Eram os Deuses Astronautas?,5,Inglês,344,Leigh N. Richard,Romance,Quis Pede Inc.,Travessa,97,PA,Berk Hodge
+60,Livro da Amanda,2,Português,436,Sharon Hooper,Romance,In Institute,Travessa,99,SC,Inga Ashley
+61,Livro Amaldiçoado,2,Latim,520,Travis Robertson,Romance,Et Lacinia Ltd,Estante Virtual,77,PB,Chantale Palmer
+62,Livro 1,5,Espanhol,455,Giselle Rollins,Suspense,Cras Sed Incorporated,Estante Virtual,40,CE,Kelsie Stafford
+63,Livro para matemáticos,2,Japonês,492,Mallory G. Burt,Romance,Sem Molestie Institute,Travessa,51,PA,Tatum Farley
+64,Livro 3,2,Português,418,Karyn D. Meadows,Romance,Rutrum Industries,Livraria Cultura,94,SP,Ashely Hobbs
+65,As mentiras de Locke Lamora,5,Latim,307,Maggie Head,Romance,At Arcu PC,Travessa,24,SP,Olympia Keith
+66,Livro Incrível,2,Francês,404,Mufutau J. Butler,Horror,Quis Pede Suspendisse Foundation,Estante Virtual,65,MA,Jamal Hines
+67,Livro 2,1,Francês,234,Liberty Rojas,Drama,Nisi Consulting,Travessa,78,SC,Aline Levy
